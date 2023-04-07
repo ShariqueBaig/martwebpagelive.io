@@ -1,0 +1,228 @@
+.center{
+    text-align: center;
+}
+
+.blackbag{
+    background-color: rgb(185, 92, 92);
+}
+
+*{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+.mart{
+    background-image: url('mart.png');
+    background-attachment: fixed;
+    background-size: auto;
+}
+
+.colorblue{
+    color: darkblue;
+}
+
+.bagcolorblue{
+    background-color: aqua;
+}
+
+table, th, td {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  caption{
+    border-style: solid;
+  border-width: 1px;
+  }
+
+#workinghours{
+    background-color: burlywood;
+}
+
+#contactus{
+    background-color: darkgreen;
+}
+
+.cen{
+
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-left: 1px solid #333;
+    border-right: 1px solid #333;
+}
+
+.button{
+    float: right;
+}
+
+.cen #register{
+
+    float: right;
+}
+.cen #login{
+
+    float: right;
+}
+.bgmain{
+    background-image: url('https://wallpapertag.com/wallpaper/full/2/3/1/354637-blur-background-1920x1080-for-ipad-2.jpg');
+}
+
+.cenbox{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(255, 255, 255, .6);
+    border-radius: 40px;
+    position: relative;
+    left: 250px;
+    top: 150px;
+}
+
+.userlogo{
+    position: relative;
+    left: 450px;
+    bottom: 300px;
+}
+
+.username{
+    position: relative;
+    left: 200px;
+    bottom: 200px;
+    height: 30px;
+    width: 350px;
+    background-color: rgb(37, 71, 110);
+    border-color: rgb(37, 71, 110);
+}
+
+.usernamelogo{
+    
+    position: relative;
+    bottom: 240px;
+    left: 270px;
+}
+.password{
+    position: relative;
+    left: 325px;
+    bottom: 200px;
+    height: 30px;
+    width: 350px;
+    background-color: rgb(37, 71, 110);
+    border-color: rgb(37, 71, 110);
+}
+
+.passwordlogo{
+    
+    position: relative;
+    bottom: 240px;
+    left: 270px;
+}
+
+.keepmesignin{
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+}
+
+.forgetpass{
+    position: relative;
+    left: 600px;
+    bottom: 215px;
+}
+
+.loginbutton{
+    width: 200px;
+    height: 80px;
+    background-color: rgb(255, 255, 255, .6);
+    border: 0;
+    border-radius: 30px;
+    position: relative;
+    left: 400px;
+    bottom: 180px;
+}
+
+.loginname{
+    position: relative;
+    left: 450px;
+    bottom: 550px;
+    font-size: 25px;
+}
+
+.sharique{
+    position: relative;
+    bottom: 220px;
+    font-size: 20px;
+}
+
+.bgregister{
+    background-image: url('https://thumbs.dreamstime.com/b/seoul-south-korea-circa-may-inside-convenience-store-sign-eleven-international-chain-convenience-stores-convenience-store-105099431.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.registerbox{
+    width: 500px;
+    height: 500px;
+    background-color: rgba(255, 255, 255, 0.651);
+    position: relative;
+    left: 270px;
+    top: 70px;
+}
+.registerbox h1{
+    position: relative;
+    left: 150px;
+    top: 20px;
+}
+
+.registerbox .usernamereg{
+    position: relative;
+    left: 40px;
+    top: 60px;
+    height: 30px;
+    width: 400px;
+}
+.registerbox .email{
+    position: relative;
+    left: 40px;
+    top: 80px;
+    height: 30px;
+    width: 400px;
+}
+.registerbox .passwordreg{
+    position: relative;
+    left: 40px;
+    top: 100px;
+    height: 30px;
+    width: 400px;
+}
+.registerbox .confirmpass{
+    position: relative;
+    left: 40px;
+    top: 120px;
+    height: 30px;
+    width: 400px;
+}
+
+.registerbox .termsandconditions{
+    position: absolute;
+    top: 340px;
+    right: 200px
+}
+
+.registerbox .signupbutton{
+    width: 380px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.562);
+    position: relative;
+    top: 200px;
+    left: 60px;
+    font-size: 24px;
+}
+
+.registerbox p{
+    position: relative;
+    top: 220px;
+    left: 100px;
+}
